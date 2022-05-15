@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nshreyasvi/nshreyasvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Shreyasvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshreyasvi&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshreyasvi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
